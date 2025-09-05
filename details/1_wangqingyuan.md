@@ -6,12 +6,13 @@
 
 <table>
 <tr>
-<td width="60%" align="center">
+<td width="80%" align="center">
 
-![王清远照片](../images/1_kexue_wangqingyuan/1_ip.jpg)
+<img src="../images/1_kexue_wangqingyuan/1_ip.jpg" alt="王清远照片" width="200" height="250">
+
 
 </td>
-<td width="40%">
+<td width="20%">
 
 |         **项目**          |         **内容**          |
 |:-----------------------:|:-----------------------:|
