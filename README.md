@@ -2,7 +2,7 @@
 
 ## 说明
 
-本项目由社区网友投稿，互联网资料整理而来，从37位拥有负面网络舆情的院士候选人中精选出10位负面舆情最严重的候选人。完整版内容请看[文档备份1](https://docs.qq.com/sheet/DWWN4Sm10a0xrYnZu?tab=pj1clo), [文档备份2](https://docs.google.com/spreadsheets/d/1sMk3Rd0fnjAArrjF7b4alwt3BgdplKOKMHWanXmPbSM/edit?usp=sharing)。
+本项目由社区网友投稿，互联网资料整理而来，从37位拥有负面网络舆情的院士候选人中精选出12位负面舆情最严重的候选人。完整版内容请看[谷歌文档](https://docs.qq.com/sheet/DWWN4Sm10a0xrYnZu?tab=pj1clo), 或[腾讯文档](https://docs.google.com/spreadsheets/d/1sMk3Rd0fnjAArrjF7b4alwt3BgdplKOKMHWanXmPbSM/edit?usp=sharing)。
 
 
 ## 评分说明
