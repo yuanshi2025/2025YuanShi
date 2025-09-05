@@ -8,7 +8,10 @@
 <tr>
 <td width="60%" align="center">
 
-![照片](../images/3_kexue_guohongwei/3_ip.jpg)
+
+<img src="../images/3_kexue_guohongwei/3_ip.jpg" alt="照片" width="200" height="250">
+
+
 
 </td>
 <td width="40%">
