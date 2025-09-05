@@ -9,7 +9,7 @@
 <td width="60%" align="center">
 
 
-<img src="../images/3_kexue_guohongwei/3_ip.jpg" alt="照片" width="200" height="250">
+<img src="../images/3_kexue_guohongwei/3_ip.jpg" alt="照片" width="600">
 
 
 
