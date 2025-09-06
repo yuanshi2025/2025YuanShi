@@ -6,15 +6,15 @@
 
 <table>
 <tr>
-<td width="60%" align="center">
+<td width="70%" align="center">
 
 
-<img src="../images/3_kexue_guohongwei/3_ip.jpg" alt="照片" width="600">
+![照片](../images/3_kexue_guohongwei/3_ip.jpeg)
 
 
 
 </td>
-<td width="40%">
+<td width="30%">
 
 |         **项目**          |               **内容**                |
 |:-----------------------:|:-----------------------------------:|

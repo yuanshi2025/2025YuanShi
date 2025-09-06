@@ -8,7 +8,7 @@
 <tr>
 <td width="60%" align="center">
 
-![照片](../images/9_gongcheng_jiazhenhua/9_ip.jpg)
+![照片](../images/9_gongcheng_gengmeiyu/9_ip.jpg)
 
 </td>
 <td width="40%">
