@@ -9,7 +9,7 @@
 <td width="70%" align="center">
 
 
-![照片](../images/3_kexue_guohongwei/3_ip.jpeg)
+![照片](../images/3_kexue_guohongwei/3_ip.jpg)
 
 
 
