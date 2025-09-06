@@ -9,7 +9,7 @@
 <td width="70%" align="center">
 
 
-![照片](../images/3_kexue_guohongwei/3_ip.jpg)
+<img src="../images/3_kexue_guohongwei/3_ip.jpg" alt="照片" width="100%">
 
 
 
